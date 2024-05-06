@@ -34,10 +34,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp ESCAPE      &kp LS(EXCL)    &kp LS(AT)  &kp LS(POUND)     &kp LS(DLLR)  &kp LS(PRCNT)    &kp LS(CARET)  &kp LS(AMPS)   &kp LS(STAR)   &kp LS(LPAR)  &kp LS(RPAR)  &kp BSPC
-&kp TAB         &kp N1          &kp N2      &kp N3            &kp N4        &kp N5           &kp N6         &kp N7         &kp N8         &kp N9        &kp N0        &kp EQUAL
-&kp LEFT_SHIFT  &kp LEFT_SHIFT  &kp TILDE   &kp GRAVE         &kp LBKT      &kp LS(LBRC)     &kp LS(RBRC)   &kp RBKT       &none          &none         &kp MINUS     &kp BACKSLASH
-                                            &kp LEFT_CONTROL  &kp LEFT_WIN  &kp SPACE        &kp RET        &kp BACKSPACE  &kp RIGHT_ALT
+&kp ESCAPE      &kp LS(EXCL)    &kp LS(AT)  &kp LS(POUND)     &kp LS(DLLR)  &kp LS(PRCNT)    &kp LS(CARET)  &kp LS(AMPS)   &kp LS(STAR)       &kp LS(LPAR)  &kp LS(RPAR)  &kp BSPC
+&kp TAB         &kp N1          &kp N2      &kp N3            &kp N4        &kp N5           &kp N6         &kp N7         &kp N8             &kp N9        &kp N0        &kp EQUAL
+&kp LEFT_SHIFT  &kp LEFT_SHIFT  &kp TILDE   &kp GRAVE         &kp LBKT      &kp LS(LBRC)     &kp LS(RBRC)   &kp RBKT       &none              &none         &kp MINUS     &kp BACKSLASH
+                                            &kp LEFT_CONTROL  &kp LEFT_WIN  &kp SPACE        &kp RET        &kp BACKSPACE  &kp RIGHT_CONTROL
             >;
         };
 
